@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gradient-to-t from-green-400 w-full h-screen">
-    <div value="">logijhn</div>
+    <div value="">logfdijhn</div>
     <input type="text" placeholder="first name" required>
   </div>
 </template>
