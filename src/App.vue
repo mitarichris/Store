@@ -1,6 +1,6 @@
 <template>
   <div class="bg-gradient-to-t from-green-400 w-full h-screen">
-    <div value="">login</div>
+    <div value="">logijhn</div>
     <input type="text" placeholder="first name" required>
   </div>
 </template>
@@ -13,4 +13,4 @@ import Instagram from "vue-material-design-icons/Instagram.vue";
 import Cart from "vue-material-design-icons/Cart.vue";
 </script>
 
-<style scoped></style>
+<style scoped>hkhkjh</style>
